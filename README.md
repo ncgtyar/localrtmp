@@ -1,3 +1,7 @@
+# localrtmp
+Read frames from a local RTMP stream using OpenCVSharp
+- **Encoding must be H.264** *(This is default in OBS)*
+
 **Required NuGet packages:**
 1) OpenCVSharp4
 2) OpenCVSharp4.runtime.win
