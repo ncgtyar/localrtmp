@@ -5,7 +5,9 @@
 1) OpenCVSharp4
 2) OpenCVSharp4.runtime.win
 3) OpenCVSharp4.Extensions
-4) System.Drawing
+
+**Required references:**
+1) System.Drawing
 
 **Required libraries:**
 1) nginx *(RTMP server)*
